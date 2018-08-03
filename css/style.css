@@ -1,0 +1,95 @@
+
+
+body {
+    background-color: #33334d; 
+    width:100%;
+    height:100%;
+}
+
+.planet-wrapper {
+    width:100%;
+}
+
+.sun {
+    width:200px;
+    height:200px;
+    margin:auto;
+    border-radius:50%;
+    background-color:#e6b800;
+    
+}
+
+.mercury {
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    background-color:#a6a6a6;
+    
+}
+
+.venus {
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    background: linear-gradient(#b34700, #cc5200, #ffd1b3, #cc5200, #ff8533, #ffd1b3, #cc5200, #b34700);
+    
+}
+
+.earth {
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background-color:#000099;
+    
+}
+
+.mars {
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background-color:#cc3300;
+    
+}
+
+.jupiter {
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    background: linear-gradient(#ffcc99, #ffffff, #cc6600, #ffffff, #cc6600, #ffffff, #ffffff);
+    
+}
+
+.saturn {
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    background-color:#ffb366;
+    
+}
+
+.uranus {
+    width:90px;
+    height:90px;
+    border-radius:50%;
+    background-color:#66e0ff;
+    
+}
+
+.neptune {
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    background-color:#4d88ff;
+    
+}
+
+.pluto {
+    width:20px;
+    height:20px;
+    border-radius:50%;
+    background-color:#ffcc99;
+    
+}
+
+<!--https://codepen.io/idiotWu/pen/Ahjkf-->
+<!--https://codepen.io/giuliacardieri/pen/EypPdg-->
